@@ -2,7 +2,7 @@
 
 A Trivia App for testing your knowledge!
 
-A single page application created with Django, Django REDT Framework and Vue JS
+A single page application created with Django, Django REST Framework and Vue JS
 
 You need to register so you can publish, edit and delete your own trivia questions.
 
